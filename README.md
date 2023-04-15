@@ -3,8 +3,8 @@
 
 ## Conteúdo:
 
-- [Como fica sua tela de Inicilização (boot)](# Como fica sua tela de Inicilização (boot):)
-- [Support types of files](#Tipos-de-Arquivos-Suportados)
+- [Como fica sua tela de Inicilização (boot)](#Como-fica-sua-tela-de-Inicilização-(boot):)
+- [Tipos de arquivos suportados](#Tipos-de-Arquivos-Suportados)
 - [Download](#download)
 - [Build](#build)
 - [Boot](#boot)
