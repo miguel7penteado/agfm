@@ -4,7 +4,7 @@
 ## Conteúdo:
 
 - [Como fica sua tela de Inicilização (boot)](# Como fica sua tela de Inicilização (boot):)
-- [Support types of files](#support-types-of-files)
+- [Support types of files](#Tipos-de-Arquivos-Suportados)
 - [Download](#download)
 - [Build](#build)
 - [Boot](#boot)
@@ -16,7 +16,7 @@
 
 ![preview.png](https://github.com/a1ive/grub2-filemanager/raw/gh-pages/preview.png)
 
-## Support types of files
+## Tipos de Arquivos Suportados
 
 | Type                                                         | i386-pc | i386-efi | x86_64-efi |
 | :----------------------------------------------------------- | :-----: | :------: | :--------: |
