@@ -34,11 +34,15 @@
 ## Download
 
 https://github.com/a1ive/grub2-filemanager/releases 
-## Build
-	git clone https://github.com/a1ive/grub2-filemanager.git
+
+## Compilar e construir (no linux)
+```bash
+	git clone git@github.com:miguel7penteado/agfm.git
 	cd grub2-filemanager
 	./update_grub2.sh
 	./build.sh
+```
+
 ## Boot 
 ### i386-pc 
 DO NOT boot grubfm.iso with memdisk!  
@@ -61,13 +65,13 @@ DO NOT boot grubfm.iso with memdisk!
 ## Source code 
 GRUB2: https://github.com/a1ive/grub 
 
-## USB Installers
+## projetos de instaladores USB bootáveis que utilizam o esse projeto
 
 - [Easy2Boot](https://www.easy2boot.com/uefi-mbr-a1ive-grub2-file-manager/) 
 - [GrubFM Installer](https://github.com/QuestYouCraft/grubfm-installer) 
 - [SecureBoot-Grub2FM-Suite](https://github.com/abdullah-erturk/SecureBoot-Grub2FM-Suite)
 
-## Related projects
+## Projetos relacionados
 
 *	[GLIM](https://github.com/thias/glim) 
 *	[grub-iso-boot](https://github.com/Jimmy-Z/grub-iso-boot) 

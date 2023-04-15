@@ -3,8 +3,8 @@
 
 ## Conteúdo:
 
-- [Como fica sua tela de Inicilização (boot)](# Como fica sua tela de Inicilização (boot):)
-- [Support types of files](#Tipos-de-Arquivos-Suportados)
+- [Como fica sua tela de Inicilização (boot)](#Como-fica-sua-tela-de-Inicilização-(boot):)
+- [Tipos de arquivos suportados](#Tipos-de-Arquivos-Suportados)
 - [Download](#download)
 - [Build](#build)
 - [Boot](#boot)
@@ -34,11 +34,15 @@
 ## Download
 
 https://github.com/a1ive/grub2-filemanager/releases 
-## Build
-	git clone https://github.com/a1ive/grub2-filemanager.git
+
+## Compilar e construir (no linux)
+```bash
+	git clone git@github.com:miguel7penteado/agfm.git
 	cd grub2-filemanager
 	./update_grub2.sh
 	./build.sh
+```
+
 ## Boot 
 ### i386-pc 
 DO NOT boot grubfm.iso with memdisk!  
