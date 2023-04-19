@@ -80,4 +80,4 @@ GRUB2: https://github.com/a1ive/grub
 *	[G4D AUTOMENU](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=203607) 
 *	[Multiboot USB](http://mbusb.aguslr.com/) 
 *	[RUN](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=191301) 
-*	[Ventoy](https://github.com/ventoy/Ventoy)
+*	[Ventoy](https://github.com/ventoy/Ventoy) 
